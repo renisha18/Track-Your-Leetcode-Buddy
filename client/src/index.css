@@ -1,0 +1,9 @@
+@config "../tailwind.config.js";
+@import "tailwindcss";
+
+:root {
+  --color-terracotta: #D06224;
+  --color-chile-rojo: #AE431E;
+  --color-olive: #8A8635;
+  --color-sunset: #EAC891;
+}
